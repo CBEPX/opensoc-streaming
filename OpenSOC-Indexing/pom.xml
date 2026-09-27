@@ -19,8 +19,8 @@
 	</parent>
 	<artifactId>OpenSOC-Indexing</artifactId>
 	<properties>
-		<elastic.search.version>1.2.1</elastic.search.version>
-		<http.client.version>4.3.4</http.client.version>
+		<elastic.search.version>8.18.8</elastic.search.version>
+		<http.client.version>4.5.14</http.client.version>
 		<jsonsimple.version>1.1.1</jsonsimple.version>
 	</properties>
 	<dependencies>
@@ -61,7 +61,7 @@
   		<dependency>
   			<groupId>junit</groupId>
   			<artifactId>junit</artifactId>
-  			<version>3.8.2</version>
+  			<version>4.13.2</version>
   		</dependency>	
 
 	</dependencies>
